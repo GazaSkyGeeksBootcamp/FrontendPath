@@ -12,6 +12,7 @@ This roadmap is structured as a series of **learning stations**. Each station in
 - **Concepts**:
   - DOM traversal and manipulation
   - Event handling (bubbling/capturing, delegation)
+  - Web APIs (localStorage, sessionStorage, cookies, Geolocation, ...etc)
 - **Main Objective**: Learn how to interact with HTML elements dynamically through JS.
 
 ---
