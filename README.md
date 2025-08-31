@@ -62,13 +62,13 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 7: Forms & Validation
+## Station 7: Forms & Validation (Optional)
 
 - **Main Objective**: Build accessible and user-friendly form experiences.
 
 ---
 
-## Station 8: Accessibility (a11y)
+## Station 8: Accessibility (a11y) (Optional)
 
 - **Concepts**:
   - ARIA roles
@@ -130,7 +130,7 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 14: REST & GraphQL
+## Station 14: REST & GraphQL 
 
 - **Concepts**:
   - HTTP verbs, status codes
@@ -140,7 +140,7 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 15: Unit Testing
+## Station 15: Unit Testing (Optional)
 
 - **Concepts**:
   - Testing React components with Jest/Vitest and RTL
@@ -149,7 +149,7 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 16: CI/CD for Frontend
+## Station 16: CI/CD for Frontend (Optional)
 
 - **Concepts**:
   - Continuous Integration/Continuous Deployment
@@ -159,7 +159,7 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 17: Frontend Architecture
+## Station 17: Frontend Architecture (Optional)
 
 - **Concepts**:
   - Folder structures, separation of concerns
