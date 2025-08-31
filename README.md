@@ -52,45 +52,7 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 6: Browser Internals
-
-- **Concepts**:
-  - HTML/CSS/JS parsing
-  - Critical Rendering Path
-  - Repaint, Reflow
-- **Main Objective**: Understand how browsers render web pages and how code affects performance.
-
----
-
-## Station 7: Forms & Validation (Optional)
-
-- **Main Objective**: Build accessible and user-friendly form experiences.
-
----
-
-## Station 8: Accessibility (a11y) (Optional)
-
-- **Concepts**:
-  - ARIA roles
-  - Keyboard navigation
-  - Semantic HTML
-- **Main Objective**: Make apps usable by all users, including those with disabilities.
-
----
-
-## Station 9: Performance Optimization
-
-- **Concepts**:
-  - Web vitals (LCP, TTI, CLS)
-  - Code splitting, lazy loading
-  - Image optimization, caching strategies
-  - Lighthouse audits
-  - Measuring LCP, TTI
-- **Main Objective**: Improve app speed and perceived performance.
-
----
-
-## Station 10: React Basics
+## Station 6: React Basics
 
 - **Concepts**:
   - Components, props, state
@@ -102,7 +64,7 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 11: State Management
+## Station 7: State Management
 
 - **Concepts**:
   - Client state: Context API, Zustand, XState, mobx (types of reactivity)
@@ -111,7 +73,13 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 12: Styling Systems
+## Station 8: Forms & Validation (Optional)
+
+- **Main Objective**: Build accessible and user-friendly form experiences.
+
+---
+
+## Station 9: Styling Systems
 
 - **Concepts**:
   - Tailwind CSS utility-first workflow
@@ -121,7 +89,7 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 13: Next.js & Rendering Patterns
+## Station 10: Next.js & Rendering Patterns
 
 - **Concepts**:
   - CSR, SSR, SSG, ISR
@@ -130,13 +98,45 @@ This roadmap is structured as a series of **learning stations**. Each station in
 
 ---
 
-## Station 14: REST & GraphQL 
+## Station 11: REST & GraphQL 
 
 - **Concepts**:
   - HTTP verbs, status codes
   - RESTful conventions
   - GraphQL schemas, queries, mutations
 - **Main Objective**: Communicate with APIs using REST and GraphQL paradigms.
+
+---
+
+## Station 12: Browser Internals
+
+- **Concepts**:
+  - HTML/CSS/JS parsing
+  - Critical Rendering Path
+  - Repaint, Reflow
+- **Main Objective**: Understand how browsers render web pages and how code affects performance.
+
+---
+
+## Station 13: Performance Optimization
+
+- **Concepts**:
+  - Web vitals (LCP, TTI, CLS)
+  - Code splitting, lazy loading
+  - Image optimization, caching strategies
+  - Lighthouse audits
+  - Measuring LCP, TTI
+- **Main Objective**: Improve app speed and perceived performance.
+
+---
+
+## Station 14: Accessibility (a11y) (Optional)
+
+- **Concepts**:
+  - ARIA roles
+  - Keyboard navigation
+  - Semantic HTML
+- **Main Objective**: Make apps usable by all users, including those with disabilities.
 
 ---
 
